@@ -30,6 +30,7 @@ pip install -r requirements.txt
 ```
 (Please note that you are required to use python  for this project)
 
+Also you wil need to download the datasets that are listed here [Datasets](Datasets.MD)
 
 ## Issues/Feedback
 

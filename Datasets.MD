@@ -4,4 +4,4 @@
 !DISCLAIMER! The content of these Datasets obviously contain harmful content (Hate Speech and swear words)  
 
 
-* HateSpeechDataset.csv: https://www.kaggle.com/datasets/waalbannyantudre/hate-speech-detection-curated-dataset, Licence: Attribution 4.0 International
+* [1. Dataset](HateSpeechDataset.csv): https://www.kaggle.com/datasets/waalbannyantudre/hate-speech-detection-curated-dataset, Licence: Attribution 4.0 International
